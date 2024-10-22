@@ -11,6 +11,12 @@
             "email": "mahmoud@nezamy.com",
             "homepage": "http://nezamy.com",
             "role": "Full Stack Web Developer"
+        },
+        {
+            "name": "Valentino Pesce",
+            "email": "valentino@iltuobrand.it",
+            "homepage": "https://github.com/kenlog",
+            "role": "Maintainer Fork"
         }
     ],
     "autoload": {
